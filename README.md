@@ -43,6 +43,9 @@ Then load it into your shell:
 
 This makes the variables available to forge create and forge verify-contract.
 
+Always run it when:
+* Opening a new terminal
+I Modifying/adding variables to the `.env` file
 
 ### 5. Contract Code 
 
@@ -94,12 +97,17 @@ Make sure:
 
 
 
-### Explorer Link
+### View on Basescan
+
+Contract Address: 0xYourContractAddress
+
+<https://sepolia.basescan.org/address/YourContractAddress>
 
 Contract Address: 0xYourContractAddress
 
 Verified on: [Basescan](https://sepolia.basescan.org/)
 
-### 📝 License
+### Resources
 
-MIT © 2025 Winnie579
+[Base Scan](https://sepolia.basescan.org/)
+[Base Documentation](https://docs.base.org/learn/foundry/deploy-with-foundry)
