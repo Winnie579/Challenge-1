@@ -31,7 +31,7 @@ forge init
 
 ### 4. Environment Configuration
 
-Create a .env file to securely store sensitive values:
+Create a `.env` file to securely store sensitive values:
 ```
 PRIVATE_KEY=your-wallet-private-key
 ETHERSCAN_API_KEY=your-basescan-api-key
@@ -93,7 +93,7 @@ Make sure:
 
 * The contract name matches exactly
 
-* Your .env is sourced before running this
+* Your `.env` is sourced before running this
 
 
 
@@ -110,4 +110,5 @@ Verified on: [Basescan](https://sepolia.basescan.org/)
 ### Resources
 
 [Base Scan](https://sepolia.basescan.org/)
+
 [Base Documentation](https://docs.base.org/learn/foundry/deploy-with-foundry)
